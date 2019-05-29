@@ -17,6 +17,7 @@ set(Interface
 		)
 
 set(Src
+		dummy.c
 		)
 
 set(Deps
