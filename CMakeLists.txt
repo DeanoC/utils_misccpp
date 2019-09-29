@@ -13,7 +13,6 @@ if(NOT hasParent)
 	endif()
 	INIT_AL2O3(${CMAKE_CURRENT_SOURCE_DIR})
 endif ()
-cmake_minimum_required(VERSION 3.13)
 set(LibName utils_misccpp)
 SET_MIN_VERSIONS()
 
